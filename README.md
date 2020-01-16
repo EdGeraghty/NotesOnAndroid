@@ -134,6 +134,14 @@ DAVx5 is an open source calendar syncing app, supporting a range of backends. Th
 
 [Open in F-Droid](https://f-droid.org/en/packages/at.bitfire.davdroid)
 
+### 9.2: [ToDo Agenda](https://github.com/andstatus/todoagenda)
+
+This is a calendar widget you can use on your home screen with Etar
+
+[Open in F-Droid](https://f-droid.org/en/packages/org.andstatus.todoagenda/)
+
+[Open in Play Store/Aurora Store](https://play.google.com/store/apps/details?id=org.andstatus.todoagenda)
+
 ### 10: [Firefox Focus](https://support.mozilla.org/en-US/kb/focus)
 
 A minimal web browser with built-in ad blocking, anti-tracking, and fully "Private Windows" (with no memory).
