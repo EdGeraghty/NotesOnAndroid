@@ -124,13 +124,13 @@ Open Source Password Manager for Android, supports fingerprint unlocking
 
 ### 9: [Etar Calendar](https://github.com/Etar-Group/Etar-Calendar)
 
-The application is an enhanced version of AOSP Calendar
+The application is an enhanced version of the Android Open Source Project Calendar, allowing for offline calendars, and not requiring a Google login
 
 [Open in F-Droid](https://f-droid.org/en/packages/ws.xsoh.etar)
 
 ### 9.1: [DAVx5](https://www.davx5.com/)
 
-DAVx5 is an open source calendar syncing app, supporting a range of backends
+DAVx5 is an open source calendar syncing app, supporting a range of backends. This is what syncs your chosen Calendar server to Etar.
 
 [Open in F-Droid](https://f-droid.org/en/packages/at.bitfire.davdroid)
 
