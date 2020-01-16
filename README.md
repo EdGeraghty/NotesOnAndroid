@@ -55,7 +55,7 @@ It does this by pretending to be a VPN, allowing it to filter which apps can and
 
 ### 3.1: Advert and other malware blocking
 
-To enable adblocking, do the following
+To enable adblocking, do the following in NetGuard:
 
 <img src="https://raw.githubusercontent.com/M66B/NetGuard/master/screenshots/33-settings-advanced.png" alt="img" style="zoom:25%;" /> 
 
