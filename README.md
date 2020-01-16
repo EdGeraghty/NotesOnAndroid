@@ -33,11 +33,15 @@ I assume you're not adding a Google account to your phone (i.e. skipping the "lo
 
 *F-Droid* is an installable catalogue of FOSS (Free and Open Source  Software) applications for the Android platform. The client makes it  easy to browse, install, and keep track of updates on your device.
 
+[Open in your web browser](https://f-droid.org)
+
 ### 2: [Aurora Store](https://auroraoss.com/)
 
 Aurora Store is an Unofficial FOSS client to replace Google's Play Store. It allows you to download and update apps without the need for a Google account.
 
 A major advantage of Aurora Store over the Play Store is its integration with [Exodus Privacy](https://exodus-privacy.eu.org/en/), which automatically scans apps for trackers and other privacy leaks.
+
+[Open in F-Droid](https://f-droid.org/en/packages/com.aurora.store)
 
 ### 3: [NetGuard](https://github.com/M66B/NetGuard/)
 
@@ -46,6 +50,8 @@ A major advantage of Aurora Store over the Play Store is its integration with [E
 *NetGuard* provides simple and advanced ways to block access to the internet - no root required. Applications and addresses can individually be allowed or denied access to your Wi-Fi and/or mobile connection.
 
 It does this by pretending to be a VPN, allowing it to filter which apps can and cannot use the Internet. It also allows for adblocking.
+
+[Open in F-Droid](https://f-droid.org/en/packages/eu.faircode.netguard/)
 
 ### 3.1: Advert and other malware blocking
 
@@ -65,11 +71,15 @@ To enable adblocking, do the following
 
 NewPipe is a replacement app for accessing YouTube, which amongst other things reduces the data usage of YouTube on your phone, and allows you to download video and/or audio directly to your phone.
 
+[Open in F-Droid](https://f-droid.org/en/packages/org.schabi.newpipe)
+
 ### 5: [Signal](https://signal.org/)
 
 Signal is an end-to-end encrypted messaging app, much like (the far more well-known) WhatsApp - in fact, WhatsApp's security uses the model from this App, and not the other way around.
 
 The major advantage of Signal on Android is that you can *set it as your default SMS app* when you install it, for opportunistic encryption. Spread the love.
+
+[Open in Play Store/Aurora Store](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
 
 ### 6: [Shelter](https://github.com/PeterCxy/Shelter)
 
@@ -90,9 +100,17 @@ Shelter is **not** a full sandbox implementation. It cannot protect you from:
 3. Backdoors installed into the firmwares (no way to work around this)
 4. Any other bugs or limitations imposed by the Android system. (i.e.  If Android chooses to expose some information into the work profile,  there is nothing I could do about it)
 
+[Open in F-Droid](https://f-droid.org/en/packages/net.typeblog.shelter)
+
+[Open in Play Store/Aurora Store](https://play.google.com/store/apps/details?id=net.typeblog.shelter)
+
 ### 7: [K-9 Mail](https://k9mail.github.io/)
 
 K-9 Mail is an open source email client focused on making it easy to chew through large volumes of email
+
+[Open in F-Droid](https://f-droid.org/en/packages/com.fsck.k9)
+
+[Open in Play Store/Aurora Store](https://play.google.com/store/apps/details?id=com.fsck.k9)
 
 ### 8: [KeePass DX](https://www.keepassdx.com/)
 
@@ -100,17 +118,27 @@ K-9 Mail is an open source email client focused on making it easy to chew throug
 
 Open Source Password Manager for Android, supports fingerprint unlocking
 
+[Open in F-Droid](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre)
+
+[Open in Play Store/Aurora Store](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free)
+
 ### 9: [Etar Calendar](https://github.com/Etar-Group/Etar-Calendar)
 
 The application is an enhanced version of AOSP Calendar
 
-### 10: [DAVx5](https://www.davx5.com/)
+[Open in F-Droid](https://f-droid.org/en/packages/ws.xsoh.etar)
 
 DAVx5 is an open source calendar syncing app, supporting a range of backends
+
+[Open in F-Droid](https://f-droid.org/en/packages/at.bitfire.davdroid)
 
 ### 11: [Firefox Focus](https://support.mozilla.org/en-US/kb/focus)
 
 A minimal web browser with built-in ad blocking, anti-tracking, and fully "Private Windows" (with no memory).
+
+[Open in F-Droid](https://f-droid.org/en/packages/org.mozilla.klar/)
+
+[Open in Play Store/Aurora Store](https://play.google.com/store/apps/details?id=org.mozilla.focus)
 
 ### 12: [Tor Browser for Android](https://www.torproject.org/download/#android)
 
@@ -118,3 +146,4 @@ A minimal web browser with built-in ad blocking, anti-tracking, and fully "Priva
 
 Full build of the Tor Browser, native to Android
 
+[Open in Play Store/Aurora Store](https://play.google.com/store/apps/details?id=org.torproject.torbrowser)
