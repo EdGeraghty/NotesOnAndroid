@@ -33,7 +33,13 @@ I assume you're not adding a Google account to your phone (i.e. skipping the "lo
 
 *F-Droid* is an installable catalogue of FOSS (Free and Open Source  Software) applications for the Android platform. The client makes it  easy to browse, install, and keep track of updates on your device.
 
-### 2: [NetGuard](https://github.com/M66B/NetGuard/)
+### 2: [Aurora Store](https://auroraoss.com/)
+
+Aurora Store is an Unofficial FOSS client to replace Google's Play Store. It allows you to download and update apps without the need for a Google account.
+
+A major advantage of Aurora Store over the Play Store is its integration with [Exodus Privacy](https://exodus-privacy.eu.org/en/), which automatically scans apps for trackers and other privacy leaks.
+
+### 3: [NetGuard](https://github.com/M66B/NetGuard/)
 
 <img src="https://raw.githubusercontent.com/M66B/NetGuard/master/screenshots/01-main.png" alt="NetGuard Screenshot" style="zoom: 33%;" />  <img src="https://raw.githubusercontent.com/M66B/NetGuard/master/screenshots/02-main-details.png" alt="NetGuard Screenshot" style="zoom:33%;" />
 
@@ -41,7 +47,7 @@ I assume you're not adding a Google account to your phone (i.e. skipping the "lo
 
 It does this by pretending to be a VPN, allowing it to filter which apps can and cannot use the Internet. It also allows for adblocking.
 
-### 2.1: Advert and other malware blocking
+### 3.1: Advert and other malware blocking
 
 To enable adblocking, do the following
 
@@ -55,21 +61,15 @@ To enable adblocking, do the following
 * Settings → Backup → Download hosts file
   * This downloads the latest version, and starts it working immediately
 
-### 3: [NewPipe](https://newpipe.schabi.org/)
+### 4: [NewPipe](https://newpipe.schabi.org/)
 
 NewPipe is a replacement app for accessing YouTube, which amongst other things reduces the data usage of YouTube on your phone, and allows you to download video and/or audio directly to your phone.
 
-### 4: [Signal](https://signal.org/)
+### 5: [Signal](https://signal.org/)
 
 Signal is an end-to-end encrypted messaging app, much like (the far more well-known) WhatsApp - in fact, WhatsApp's security uses the model from this App, and not the other way around.
 
 The major advantage of Signal on Android is that you can *set it as your default SMS app* when you install it, for opportunistic encryption. Spread the love.
-
-### 5: [Aurora Store](https://auroraoss.com/)
-
-Aurora Store is an Unofficial FOSS client to replace Google's Play Store. It allows you to download and update apps without the need for a Google account.
-
-A major advantage of Aurora Store over the Play Store is its integration with [Exodus Privacy](https://exodus-privacy.eu.org/en/), which automatically scans apps for trackers and other privacy leaks.
 
 ### 6: [Shelter](https://github.com/PeterCxy/Shelter)
 
