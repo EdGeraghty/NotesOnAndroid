@@ -128,11 +128,13 @@ The application is an enhanced version of AOSP Calendar
 
 [Open in F-Droid](https://f-droid.org/en/packages/ws.xsoh.etar)
 
+### 9.1: [DAVx5](https://www.davx5.com/)
+
 DAVx5 is an open source calendar syncing app, supporting a range of backends
 
 [Open in F-Droid](https://f-droid.org/en/packages/at.bitfire.davdroid)
 
-### 11: [Firefox Focus](https://support.mozilla.org/en-US/kb/focus)
+### 10: [Firefox Focus](https://support.mozilla.org/en-US/kb/focus)
 
 A minimal web browser with built-in ad blocking, anti-tracking, and fully "Private Windows" (with no memory).
 
@@ -140,7 +142,7 @@ A minimal web browser with built-in ad blocking, anti-tracking, and fully "Priva
 
 [Open in Play Store/Aurora Store](https://play.google.com/store/apps/details?id=org.mozilla.focus)
 
-### 12: [Tor Browser for Android](https://www.torproject.org/download/#android)
+### 11: [Tor Browser for Android](https://www.torproject.org/download/#android)
 
 <img src="https://www.torproject.org/static/images/tor-browser-mobile-window/png/TBAa-onboarding@2x.png?h=ea944932" alt="img" style="zoom:50%;" />
 
