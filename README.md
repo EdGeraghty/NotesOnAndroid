@@ -63,7 +63,7 @@ To enable adblocking, do the following
   * This tells NetGuard that you want it to start advert blocking
 
 * Settings → Backup → Hosts file Download URL
-  * https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts - the [Steven Black Unified hosts file](https://github.com/StevenBlack/hosts). This is a list of advert + malware URLs, which are then able to be blocked directly on your device.
+  * [Copy and paste this link into the prompt](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) - the [Steven Black Unified hosts file](https://github.com/StevenBlack/hosts). This is a list of advert + malware URLs, which are then able to be blocked directly on your device.
 * Settings → Backup → Download hosts file
   * This downloads the latest version, and starts it working immediately
 
